@@ -18,7 +18,6 @@ Personality Disorder.
 https://drive.google.com/file/d/1WL20v_GayxyhlCm64kv1tu2rQoUus3__/view?usp=sharing
 
 **Implementation**
-
 **Data Preprocessing**
 
 Data Cleaning: Handles missing values and unnecessary columns. Text data is cleaned using regular expressions, tokenization, stopwords removal, and lemmatization.
@@ -51,13 +50,10 @@ Neural Network (LSTM)
 Test Accuracy: Achieved an accuracy of approximately 76.5% on the test set.
 
 **Comparison**
-
 The Neural Network generally provides better performance than Logistic Regression due to its ability to capture complex patterns in the data.
 
 **Future Work**
-
 Algorithm Improvement, Hyperparameter Tuning, Advanced Feature Engineering and Scalability.
 
 **How to Run**
-
 Clone the repository. Install Python and required libraries. Download the Kaggle dataset and place it in the project directory. Run the Python script (MainProject.py) to execute the code.
